@@ -57,7 +57,7 @@ void showMenu() {
 	Tree t;
 	int loaded = 0;
 	do {
-		printf("\nTrees homework 3 by Iftah and Michael.\nPlease select your option:\n");
+		printf("\nBinary-Search-Tree.\nPlease select your option:\n");
 		printf("1. Load BST\n");
 		printf("2. Insert new node\n");
 		printf("3. Delete node\n");
